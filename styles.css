@@ -54,6 +54,10 @@ body {
     color: black !important;
 }
 
+.brand h4 {
+    
+}
+
 /* Portfolio styles */
 .portfolio-items-wrapper {
     display: grid;
